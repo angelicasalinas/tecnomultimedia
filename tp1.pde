@@ -9,29 +9,29 @@ ellipse (410,100,60,60);
 fill (255,142,21);
 ellipse (500,190,80,80);
 
-fill (216,54,13); //Naranja tirando a Rojo 
+fill (216,54,13); 
 ellipse (550,300,60,60); 
 
-fill (255,00,00); //Rojo
+fill (255,00,00); 
 ellipse (500,410,80,80);
 
 fill (175,4,144);
 ellipse (415,500,60,60);
 
-fill (190,7,219); //Violeta 
+fill (190,7,219);
 ellipse (300,550,80,80); 
 
 fill (144,13,216);
 ellipse (190,500,60,60);
 
 fill (00,00,255); 
-ellipse (100,410,80,80); //Azul
+ellipse (100,410,80,80); 
 
-fill (33,250,205); //Magenta
+fill (33,250,205); 
 ellipse (50,300,60,60);
 
 fill (00,255,00);
-ellipse (100,190,80,80); //Verde
+ellipse (100,190,80,80); 
 
 fill (131,252,3);
 ellipse (190,100,60,60);
